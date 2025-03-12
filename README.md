@@ -9,7 +9,7 @@ The project uses a dataset of circa 9000 credit card users and their credit card
 # Objective
 The objective is to :
 1) analyze the dataset and 
-2) define customer segments based on consumption behaviors using machine learning and dimensionality reduction.
+2) define customer segments based on consumption behaviors using Machine Learning and Dimensionality Reduction.
 
 Several unsupervised tools are implemented:
 - K-Means. Optimal number of segments are determined using Elbow method.
