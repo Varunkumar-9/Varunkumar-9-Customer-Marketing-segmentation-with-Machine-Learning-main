@@ -14,7 +14,7 @@ The objective is to :
 Several unsupervised tools are implemented:
 - K-Means. Optimal number of segments are determined using Elbow method.
 - PCA (Principal Composant Analysis). Apply dimensionality reduction.
-- Autoencoder (simple encoder-decoder fully connected network in Keras)
+- Autoencoder(simple encoder-decoder fully connected network in Keras)
 
 # Project structure
 - Data exploration.
