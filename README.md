@@ -1,7 +1,7 @@
 # Customer-Marketing-segmentation-with-Machine-Learning
 Use unsupervised machine learning tools to segment credit card customers
 
-In this project, the objective is to segment a portfolio of credit card users according to usage characteristics. Customer segmentation is then used by marketing department to tailor products and services specific to these customer segments. This project is part of UDEMY Datascience for Business program by Dr. Ryan Ahmed using Google Colab.
+In this project, the objective is to segment a portfolio of credit card users according to usage characteristics. Customer segmentation is then used by marketing department to tailor products and services specific to these customer segments. This project is part of UDEMY Datascience for Business program by Dr. Ryan Ahmed using Google Colab Notebooks.
 
 # Dataset
 The project uses a dataset of circa 9000 credit card users and their credit card usage pratice.
